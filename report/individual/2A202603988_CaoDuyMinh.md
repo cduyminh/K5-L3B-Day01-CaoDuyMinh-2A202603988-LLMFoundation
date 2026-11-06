@@ -1,7 +1,5 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-- **MSSV:** 2A202603988
-- **Họ và tên:** Cao Duy Minh
 - **SEED:** 4369
 
 ## 1. Bằng chứng
